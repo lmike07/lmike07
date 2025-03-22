@@ -1,6 +1,6 @@
-# 👋 Seja Bem-vindo, Me chamo Maycon Lucas!
-👩🏻‍💻 Densevolvedor Front-End Júnior<br/>
-👩Estudande do curso Ciência da Computação, Atualmente no 5 Semestre!!!<br/>
+#  Seja Bem-vindo, Me chamo Maycon Lucas!
+💸 Densevolvedor Front-End Júnior<br/>
+🚀 Estudande do curso Ciência da Computação, Atualmente no 5 Semestre!!!<br/>
 
 
 
