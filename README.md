@@ -45,11 +45,6 @@
 
 
 
-
-![snake gif](https://github.com/lmike07/lmike07/blob/output/github-contribution-grid-snake.gif)
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff7d00&height=120&section=footer"/>
 
 
